@@ -1,11 +1,22 @@
 
+h1{
+  display: flex;
+  justify-content: center;
+  padding: 15px;
+}
+
+h5{
+  color: aqua;
+}
 
 body{
-  max-width: 1000px;
+  max-width: 1200px;
   margin: 0 auto;
+  background-color: rgba(0, 0, 0, 0.641);
 }
 
 .contenitore{
   display: flex;
   flex-wrap: wrap;
 }
+
