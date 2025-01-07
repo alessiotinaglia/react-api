@@ -1,5 +1,9 @@
 /* Card component css */
 
+.containar-custom{
+    display: flex;
+    flex-wrap: wrap;
+}
 .cardCustom {
     border-radius: 15px;
     margin-bottom: 45px;

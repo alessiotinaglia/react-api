@@ -1,14 +1,14 @@
 
 import './App.css'
 import Header from './components/HeaderComponent';
-import Main from './components/MainComponent';
+import MainComponent from './components/MainComponent';
 
 function App() {
 
   return (
     <>
       <Header /> 
-      <Main /> 
+      <MainComponent /> 
     </>
   )
 }
